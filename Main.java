@@ -13,7 +13,7 @@ public class Main {
 
         //Variables to be set
 	double LengthInchUser, LengthFeet, InchTotal, CmOutput;
-    final double CentimeterPerInch = 2.55;
+    final double CentimeterPerInch = 2.54;
 
 
     //System Input from User
